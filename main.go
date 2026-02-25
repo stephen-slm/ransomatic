@@ -274,7 +274,7 @@ func main() {
 	charGap := flag.Int("char-gap", -8, "Gap in pixels between characters (negative = overlap)")
 	wordGap := flag.Int("word-gap", 30, "Gap in pixels between words")
 	lineGap := flag.Int("line-gap", 20, "Gap in pixels between lines")
-	maxTilt := flag.Float64("max-tilt", 5.0, "Maximum random tilt in degrees (each direction)")
+	maxTilt := flag.Float64("max-tilt", 0, "Maximum random tilt in degrees (each direction)")
 	bgHex := flag.String("bg", "FFFFFF", "Background color as hex (e.g. FFFFFF). Use 'none' for transparent")
 	padding := flag.Int("padding", 20, "Padding around the entire image in pixels")
 	noClipboard := flag.Bool("no-clipboard", false, "Disable copying the image to the clipboard")
