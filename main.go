@@ -305,7 +305,7 @@ func main() {
 			joined := strings.Join(flag.Args(), " ")
 			text = &joined
 		} else {
-			fmt.Fprintf(os.Stderr, "Usage: randy -text \"Hello World\"\n")
+			fmt.Fprintf(os.Stderr, "Usage: ransomatic -text \"Hello World\"\n")
 			flag.PrintDefaults()
 			os.Exit(1)
 		}

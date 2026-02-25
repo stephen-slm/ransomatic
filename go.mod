@@ -1,4 +1,4 @@
-module randy
+module ransomatic
 
 go 1.25
 

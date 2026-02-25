@@ -1,4 +1,4 @@
-# randy
+# ransomatic
 
 A CLI tool that converts text into images using hand-cut character images (ransom-note style) or Comic Sans font rendering. Each character is randomly tilted and slightly overlapped for a natural collage effect. The result is automatically copied to your clipboard.
 
@@ -7,7 +7,7 @@ A CLI tool that converts text into images using hand-cut character images (ranso
 ### Ransom mode (default)
 
 ```bash
-randy -text "Hello World!"
+ransomatic -text "Hello World!"
 ```
 
 ![ransom example](examples/ransom.png)
@@ -15,7 +15,7 @@ randy -text "Hello World!"
 ### Comic Sans mode
 
 ```bash
-randy -text "Hello World!" -mode comic-sans
+ransomatic -text "Hello World!" -mode comic-sans
 ```
 
 ![comic sans example](examples/comic-sans.png)
@@ -23,19 +23,19 @@ randy -text "Hello World!" -mode comic-sans
 ## Installation
 
 ```bash
-go build -o randy .
+go build -o ransomatic .
 ```
 
 ## Usage
 
 ```bash
-randy -text "Your message here"
+ransomatic -text "Your message here"
 ```
 
 Text can also be passed as positional arguments:
 
 ```bash
-randy Hello World
+ransomatic Hello World
 ```
 
 ## Flags
