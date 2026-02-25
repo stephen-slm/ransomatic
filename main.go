@@ -31,7 +31,7 @@ type charRenderer interface {
 // --- Ransom-note (image-based) renderer ---
 
 type ransomRenderer struct {
-	lookup map[rune]string
+	lookup map[rune][]string // character -> list of image paths (variants)
 }
 
 func newRansomRenderer(charsDir string) (*ransomRenderer, error) {
@@ -48,21 +48,34 @@ func newRansomRenderer(charsDir string) (*ransomRenderer, error) {
 		return nil, fmt.Errorf("parsing manifest: %w", err)
 	}
 
-	lookup := make(map[rune]string, len(entries))
+	lookup := make(map[rune][]string)
 	for _, e := range entries {
 		runes := []rune(e.Char)
 		if len(runes) == 1 {
-			lookup[runes[0]] = filepath.Join(charsDir, e.File)
+			r := runes[0]
+			lookup[r] = append(lookup[r], filepath.Join(charsDir, e.File))
 		}
 	}
+
+	// Alias lowercase to uppercase so both cases share the same variants.
+	for r := 'A'; r <= 'Z'; r++ {
+		if paths, ok := lookup[r]; ok {
+			lookup[r+32] = paths
+		}
+	}
+
 	return &ransomRenderer{lookup: lookup}, nil
 }
 
 func (r *ransomRenderer) renderChar(ch rune, height int) (*image.RGBA, error) {
-	imgPath, ok := r.lookup[ch]
+	paths, ok := r.lookup[ch]
 	if !ok {
 		return nil, fmt.Errorf("no image for character %q", ch)
 	}
+
+	// Randomly pick a variant.
+	imgPath := paths[rand.IntN(len(paths))]
+
 	f, err := os.Open(imgPath)
 	if err != nil {
 		return nil, err

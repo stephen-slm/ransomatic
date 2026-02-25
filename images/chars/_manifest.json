@@ -1,938 +1,1130 @@
 [
   {
-    "file": "uppercase/A.png",
-    "char": "A",
-    "category": "uppercase",
-    "source": "letters.png",
-    "row": 0,
-    "bbox": [
-      23,
-      24,
-      67,
-      85
-    ]
-  },
-  {
-    "file": "lowercase/a.png",
-    "char": "a",
-    "category": "lowercase",
-    "source": "letters.png",
-    "row": 0,
-    "bbox": [
-      84,
-      30,
-      136,
-      80
-    ]
-  },
-  {
-    "file": "uppercase/B.png",
-    "char": "B",
-    "category": "uppercase",
-    "source": "letters.png",
-    "row": 0,
-    "bbox": [
-      142,
-      16,
-      202,
-      83
-    ]
-  },
-  {
-    "file": "lowercase/b.png",
-    "char": "b",
-    "category": "lowercase",
-    "source": "letters.png",
-    "row": 0,
-    "bbox": [
-      209,
-      21,
-      275,
-      88
-    ]
-  },
-  {
-    "file": "uppercase/C.png",
-    "char": "C",
-    "category": "uppercase",
-    "source": "letters.png",
-    "row": 0,
-    "bbox": [
-      281,
-      16,
-      337,
-      85
-    ]
-  },
-  {
-    "file": "lowercase/c.png",
-    "char": "c",
-    "category": "lowercase",
-    "source": "letters.png",
-    "row": 0,
-    "bbox": [
-      344,
-      24,
-      402,
-      89
-    ]
-  },
-  {
-    "file": "uppercase/D.png",
-    "char": "D",
-    "category": "uppercase",
-    "source": "letters.png",
-    "row": 0,
-    "bbox": [
-      402,
-      15,
-      472,
-      89
-    ]
-  },
-  {
-    "file": "lowercase/d.png",
-    "char": "d",
-    "category": "lowercase",
-    "source": "letters.png",
-    "row": 0,
-    "bbox": [
-      483,
-      18,
-      540,
-      76
-    ]
-  },
-  {
-    "file": "uppercase/E.png",
-    "char": "E",
-    "category": "uppercase",
-    "source": "letters.png",
-    "row": 0,
-    "bbox": [
-      539,
-      10,
-      612,
-      76
-    ]
-  },
-  {
-    "file": "lowercase/e.png",
-    "char": "e",
-    "category": "lowercase",
-    "source": "letters.png",
-    "row": 0,
-    "bbox": [
-      612,
-      22,
-      668,
-      83
-    ]
-  },
-  {
-    "file": "uppercase/F.png",
-    "char": "F",
-    "category": "uppercase",
-    "source": "letters.png",
-    "row": 0,
-    "bbox": [
-      672,
-      13,
-      746,
-      88
-    ]
-  },
-  {
-    "file": "lowercase/f.png",
-    "char": "f",
-    "category": "lowercase",
-    "source": "letters.png",
-    "row": 0,
-    "bbox": [
-      745,
-      16,
-      795,
-      92
-    ]
-  },
-  {
-    "file": "uppercase/G.png",
-    "char": "G",
-    "category": "uppercase",
-    "source": "letters.png",
-    "row": 0,
-    "bbox": [
-      809,
-      11,
-      883,
-      89
-    ]
-  },
-  {
-    "file": "lowercase/g.png",
-    "char": "g",
-    "category": "lowercase",
-    "source": "letters.png",
-    "row": 0,
-    "bbox": [
-      878,
-      24,
-      933,
-      83
-    ]
-  },
-  {
-    "file": "uppercase/H.png",
-    "char": "H",
-    "category": "uppercase",
-    "source": "letters.png",
-    "row": 0,
-    "bbox": [
-      936,
-      14,
-      1007,
-      89
-    ]
-  },
-  {
-    "file": "lowercase/h.png",
-    "char": "h",
-    "category": "lowercase",
-    "source": "letters.png",
-    "row": 0,
-    "bbox": [
-      1010,
-      14,
-      1074,
-      88
-    ]
-  },
-  {
-    "file": "uppercase/I.png",
-    "char": "I",
-    "category": "uppercase",
-    "source": "letters.png",
-    "row": 0,
-    "bbox": [
-      1072,
-      14,
-      1133,
-      89
-    ]
-  },
-  {
-    "file": "lowercase/i.png",
-    "char": "i",
-    "category": "lowercase",
-    "source": "letters.png",
-    "row": 0,
-    "bbox": [
-      1139,
-      15,
-      1186,
-      78
-    ]
-  },
-  {
-    "file": "uppercase/J.png",
-    "char": "J",
-    "category": "uppercase",
-    "source": "letters.png",
-    "row": 1,
-    "bbox": [
-      11,
-      108,
-      65,
-      167
-    ]
-  },
-  {
-    "file": "lowercase/j.png",
-    "char": "j",
-    "category": "lowercase",
-    "source": "letters.png",
-    "row": 1,
-    "bbox": [
-      73,
-      102,
-      120,
-      172
-    ]
-  },
-  {
-    "file": "uppercase/K.png",
-    "char": "K",
-    "category": "uppercase",
-    "source": "letters.png",
-    "row": 1,
-    "bbox": [
-      129,
-      95,
-      196,
-      172
-    ]
-  },
-  {
-    "file": "lowercase/k.png",
-    "char": "k",
-    "category": "lowercase",
-    "source": "letters.png",
-    "row": 1,
-    "bbox": [
-      201,
-      101,
-      257,
-      170
-    ]
-  },
-  {
-    "file": "uppercase/L.png",
-    "char": "L",
-    "category": "uppercase",
-    "source": "letters.png",
-    "row": 1,
-    "bbox": [
-      265,
-      98,
-      327,
-      173
-    ]
-  },
-  {
-    "file": "lowercase/l.png",
-    "char": "l",
-    "category": "lowercase",
-    "source": "letters.png",
-    "row": 1,
-    "bbox": [
-      337,
-      98,
-      395,
-      176
-    ]
-  },
-  {
-    "file": "uppercase/M.png",
-    "char": "M",
-    "category": "uppercase",
-    "source": "letters.png",
-    "row": 1,
-    "bbox": [
-      395,
-      98,
-      483,
-      178
-    ]
-  },
-  {
-    "file": "lowercase/m.png",
-    "char": "m",
-    "category": "lowercase",
-    "source": "letters.png",
-    "row": 1,
-    "bbox": [
-      480,
-      108,
-      544,
-      166
-    ]
-  },
-  {
-    "file": "uppercase/N.png",
-    "char": "N",
-    "category": "uppercase",
-    "source": "letters.png",
-    "row": 1,
-    "bbox": [
-      541,
-      97,
-      608,
-      174
-    ]
-  },
-  {
-    "file": "lowercase/n.png",
-    "char": "n",
-    "category": "lowercase",
-    "source": "letters.png",
-    "row": 1,
-    "bbox": [
-      617,
-      117,
-      674,
-      175
-    ]
-  },
-  {
-    "file": "uppercase/O.png",
-    "char": "O",
-    "category": "uppercase",
-    "source": "letters.png",
-    "row": 1,
-    "bbox": [
-      677,
-      113,
-      740,
-      176
-    ]
-  },
-  {
-    "file": "lowercase/o.png",
-    "char": "o",
-    "category": "lowercase",
-    "source": "letters.png",
-    "row": 1,
-    "bbox": [
-      738,
-      121,
-      801,
-      173
-    ]
-  },
-  {
-    "file": "uppercase/P.png",
-    "char": "P",
-    "category": "uppercase",
-    "source": "letters.png",
-    "row": 1,
-    "bbox": [
-      804,
-      108,
-      864,
-      182
-    ]
-  },
-  {
-    "file": "lowercase/p.png",
-    "char": "p",
-    "category": "lowercase",
-    "source": "letters.png",
-    "row": 1,
-    "bbox": [
-      871,
-      115,
-      935,
-      187
-    ]
-  },
-  {
-    "file": "uppercase/Q.png",
-    "char": "Q",
-    "category": "uppercase",
-    "source": "letters.png",
-    "row": 1,
-    "bbox": [
-      940,
-      109,
-      999,
-      175
-    ]
-  },
-  {
-    "file": "lowercase/q.png",
-    "char": "q",
-    "category": "lowercase",
-    "source": "letters.png",
-    "row": 1,
-    "bbox": [
-      1007,
-      111,
-      1064,
-      184
-    ]
-  },
-  {
-    "file": "uppercase/R.png",
-    "char": "R",
-    "category": "uppercase",
-    "source": "letters.png",
-    "row": 1,
-    "bbox": [
-      1073,
-      109,
-      1122,
-      176
-    ]
-  },
-  {
-    "file": "lowercase/r.png",
-    "char": "r",
-    "category": "lowercase",
-    "source": "letters.png",
-    "row": 1,
-    "bbox": [
-      1131,
-      121,
-      1190,
-      172
-    ]
-  },
-  {
-    "file": "uppercase/S.png",
-    "char": "S",
-    "category": "uppercase",
-    "source": "letters.png",
-    "row": 2,
-    "bbox": [
-      52,
-      198,
-      121,
-      276
-    ]
-  },
-  {
-    "file": "lowercase/s.png",
-    "char": "s",
-    "category": "lowercase",
-    "source": "letters.png",
-    "row": 2,
-    "bbox": [
-      131,
-      195,
-      176,
-      261
-    ]
-  },
-  {
-    "file": "uppercase/T.png",
-    "char": "T",
-    "category": "uppercase",
-    "source": "letters.png",
-    "row": 2,
-    "bbox": [
-      193,
-      190,
-      250,
-      261
-    ]
-  },
-  {
-    "file": "lowercase/t.png",
-    "char": "t",
-    "category": "lowercase",
-    "source": "letters.png",
-    "row": 2,
-    "bbox": [
-      261,
-      196,
-      313,
-      262
-    ]
-  },
-  {
-    "file": "uppercase/U.png",
-    "char": "U",
-    "category": "uppercase",
-    "source": "letters.png",
-    "row": 2,
-    "bbox": [
-      319,
-      187,
-      394,
-      257
-    ]
-  },
-  {
-    "file": "lowercase/u.png",
-    "char": "u",
-    "category": "lowercase",
-    "source": "letters.png",
-    "row": 2,
-    "bbox": [
-      388,
-      194,
-      451,
-      267
-    ]
-  },
-  {
-    "file": "uppercase/V.png",
-    "char": "V",
-    "category": "uppercase",
-    "source": "letters.png",
-    "row": 2,
-    "bbox": [
-      460,
-      191,
-      529,
-      263
-    ]
-  },
-  {
-    "file": "lowercase/v.png",
-    "char": "v",
-    "category": "lowercase",
-    "source": "letters.png",
-    "row": 2,
-    "bbox": [
-      529,
-      211,
-      583,
-      277
-    ]
-  },
-  {
-    "file": "uppercase/W.png",
-    "char": "W",
-    "category": "uppercase",
-    "source": "letters.png",
-    "row": 2,
-    "bbox": [
-      583,
-      194,
-      665,
-      258
-    ]
-  },
-  {
-    "file": "lowercase/w.png",
-    "char": "w",
-    "category": "lowercase",
-    "source": "letters.png",
-    "row": 2,
-    "bbox": [
-      666,
-      209,
-      723,
-      265
-    ]
-  },
-  {
-    "file": "uppercase/X.png",
-    "char": "X",
-    "category": "uppercase",
-    "source": "letters.png",
-    "row": 2,
-    "bbox": [
-      729,
-      199,
-      795,
-      264
-    ]
-  },
-  {
-    "file": "lowercase/x.png",
-    "char": "x",
-    "category": "lowercase",
-    "source": "letters.png",
-    "row": 2,
-    "bbox": [
-      803,
-      209,
-      862,
-      273
-    ]
-  },
-  {
-    "file": "uppercase/Y.png",
-    "char": "Y",
-    "category": "uppercase",
-    "source": "letters.png",
-    "row": 2,
-    "bbox": [
-      878,
-      206,
-      936,
-      272
-    ]
-  },
-  {
-    "file": "lowercase/y.png",
-    "char": "y",
-    "category": "lowercase",
-    "source": "letters.png",
-    "row": 2,
-    "bbox": [
-      946,
-      199,
-      993,
-      264
-    ]
-  },
-  {
-    "file": "uppercase/Z.png",
-    "char": "Z",
-    "category": "uppercase",
-    "source": "letters.png",
-    "row": 2,
-    "bbox": [
-      1000,
-      197,
-      1060,
-      269
-    ]
-  },
-  {
-    "file": "lowercase/z.png",
-    "char": "z",
-    "category": "lowercase",
-    "source": "letters.png",
-    "row": 2,
-    "bbox": [
-      1078,
-      207,
-      1133,
-      262
-    ]
-  },
-  {
-    "file": "digits/1.png",
-    "char": "1",
-    "category": "digits",
-    "source": "numbers.png",
-    "row": 0,
-    "bbox": [
-      19,
-      27,
-      70,
-      75
-    ]
-  },
-  {
-    "file": "digits/2.png",
-    "char": "2",
-    "category": "digits",
-    "source": "numbers.png",
-    "row": 0,
-    "bbox": [
-      77,
-      24,
-      126,
-      76
-    ]
-  },
-  {
-    "file": "digits/3.png",
-    "char": "3",
-    "category": "digits",
-    "source": "numbers.png",
-    "row": 0,
-    "bbox": [
-      126,
-      19,
-      183,
-      75
-    ]
-  },
-  {
-    "file": "digits/4.png",
-    "char": "4",
-    "category": "digits",
-    "source": "numbers.png",
-    "row": 0,
-    "bbox": [
-      186,
-      23,
-      238,
-      79
-    ]
-  },
-  {
-    "file": "digits/5.png",
-    "char": "5",
-    "category": "digits",
-    "source": "numbers.png",
-    "row": 0,
-    "bbox": [
-      243,
-      17,
-      295,
-      77
-    ]
-  },
-  {
-    "file": "digits/6.png",
-    "char": "6",
-    "category": "digits",
-    "source": "numbers.png",
-    "row": 0,
-    "bbox": [
-      296,
-      18,
-      352,
-      85
-    ]
-  },
-  {
-    "file": "digits/7.png",
-    "char": "7",
-    "category": "digits",
-    "source": "numbers.png",
-    "row": 0,
-    "bbox": [
-      353,
-      26,
-      403,
-      81
-    ]
-  },
-  {
-    "file": "digits/8.png",
-    "char": "8",
-    "category": "digits",
-    "source": "numbers.png",
-    "row": 0,
-    "bbox": [
-      413,
-      19,
-      463,
-      73
-    ]
-  },
-  {
-    "file": "digits/9.png",
-    "char": "9",
-    "category": "digits",
-    "source": "numbers.png",
-    "row": 0,
-    "bbox": [
-      465,
-      23,
-      519,
-      82
-    ]
-  },
-  {
-    "file": "digits/0.png",
-    "char": "0",
-    "category": "digits",
-    "source": "numbers.png",
-    "row": 0,
-    "bbox": [
-      524,
-      9,
-      582,
-      82
-    ]
-  },
-  {
-    "file": "symbols/!.png",
-    "char": "!",
-    "category": "symbols",
-    "source": "numbers.png",
-    "row": 1,
-    "bbox": [
-      17,
-      105,
-      59,
-      160
-    ]
-  },
-  {
-    "file": "symbols/?.png",
-    "char": "?",
-    "category": "symbols",
-    "source": "numbers.png",
-    "row": 1,
-    "bbox": [
-      64,
-      100,
-      114,
-      161
-    ]
-  },
-  {
-    "file": "symbols/..png",
-    "char": ".",
-    "category": "symbols",
-    "source": "numbers.png",
-    "row": 1,
-    "bbox": [
-      115,
-      107,
-      171,
-      164
-    ]
-  },
-  {
-    "file": "symbols/,.png",
-    "char": ",",
-    "category": "symbols",
-    "source": "numbers.png",
-    "row": 1,
-    "bbox": [
-      182,
-      113,
-      226,
-      163
-    ]
-  },
-  {
-    "file": "symbols/@.png",
-    "char": "@",
-    "category": "symbols",
-    "source": "numbers.png",
-    "row": 1,
-    "bbox": [
-      226,
-      99,
-      292,
-      162
-    ]
-  },
-  {
-    "file": "symbols/$.png",
-    "char": "$",
-    "category": "symbols",
-    "source": "numbers.png",
-    "row": 1,
-    "bbox": [
-      296,
-      96,
-      347,
-      162
-    ]
-  },
-  {
-    "file": "symbols/%.png",
-    "char": "%",
-    "category": "symbols",
-    "source": "numbers.png",
-    "row": 1,
-    "bbox": [
-      355,
-      97,
-      406,
-      152
-    ]
-  },
-  {
-    "file": "symbols/#.png",
-    "char": "#",
-    "category": "symbols",
-    "source": "numbers.png",
-    "row": 1,
-    "bbox": [
-      412,
-      92,
-      468,
-      156
-    ]
-  },
-  {
-    "file": "symbols/\".png",
-    "char": "\"",
-    "category": "symbols",
-    "source": "numbers.png",
-    "row": 1,
-    "bbox": [
-      475,
-      99,
-      523,
-      152
-    ]
-  },
-  {
-    "file": "symbols/¢.png",
-    "char": "¢",
-    "category": "symbols",
-    "source": "numbers.png",
-    "row": 1,
-    "bbox": [
-      538,
-      95,
-      588,
-      153
-    ]
+    "file": "!.1.png",
+    "char": "!"
+  },
+  {
+    "file": "!.2.png",
+    "char": "!"
+  },
+  {
+    "file": "!.3.png",
+    "char": "!"
+  },
+  {
+    "file": "#.1.png",
+    "char": "#"
+  },
+  {
+    "file": "#.2.png",
+    "char": "#"
+  },
+  {
+    "file": "#.3.png",
+    "char": "#"
+  },
+  {
+    "file": "$.1.png",
+    "char": "$"
+  },
+  {
+    "file": "$.2.png",
+    "char": "$"
+  },
+  {
+    "file": "$.3.png",
+    "char": "$"
+  },
+  {
+    "file": "$.4.png",
+    "char": "$"
+  },
+  {
+    "file": "$.5.png",
+    "char": "$"
+  },
+  {
+    "file": "\u0026.1.png",
+    "char": "\u0026"
+  },
+  {
+    "file": "\u0026.2.png",
+    "char": "\u0026"
+  },
+  {
+    "file": "\u0026.3.png",
+    "char": "\u0026"
+  },
+  {
+    "file": "'.1.png",
+    "char": "'"
+  },
+  {
+    "file": "'.2.png",
+    "char": "'"
+  },
+  {
+    "file": "'.3.png",
+    "char": "'"
+  },
+  {
+    "file": "'.4.png",
+    "char": "'"
+  },
+  {
+    "file": "'.5.png",
+    "char": "'"
+  },
+  {
+    "file": "'.6.png",
+    "char": "'"
+  },
+  {
+    "file": "'.7.png",
+    "char": "'"
+  },
+  {
+    "file": "'.8.png",
+    "char": "'"
+  },
+  {
+    "file": "+.1.png",
+    "char": "+"
+  },
+  {
+    "file": "+.2.png",
+    "char": "+"
+  },
+  {
+    "file": "+.3.png",
+    "char": "+"
+  },
+  {
+    "file": ",.1.png",
+    "char": ","
+  },
+  {
+    "file": ",.2.png",
+    "char": ","
+  },
+  {
+    "file": ",.3.png",
+    "char": ","
+  },
+  {
+    "file": "-.1.png",
+    "char": "-"
+  },
+  {
+    "file": "-.2.png",
+    "char": "-"
+  },
+  {
+    "file": "-.3.png",
+    "char": "-"
+  },
+  {
+    "file": "..1.png",
+    "char": "."
+  },
+  {
+    "file": "0.1.png",
+    "char": "0"
+  },
+  {
+    "file": "0.2.png",
+    "char": "0"
+  },
+  {
+    "file": "0.3.png",
+    "char": "0"
+  },
+  {
+    "file": "0.4.png",
+    "char": "0"
+  },
+  {
+    "file": "1.1.png",
+    "char": "1"
+  },
+  {
+    "file": "1.2.png",
+    "char": "1"
+  },
+  {
+    "file": "1.3.png",
+    "char": "1"
+  },
+  {
+    "file": "2.1.png",
+    "char": "2"
+  },
+  {
+    "file": "2.2.png",
+    "char": "2"
+  },
+  {
+    "file": "2.3.png",
+    "char": "2"
+  },
+  {
+    "file": "3.1.png",
+    "char": "3"
+  },
+  {
+    "file": "3.2.png",
+    "char": "3"
+  },
+  {
+    "file": "3.3.png",
+    "char": "3"
+  },
+  {
+    "file": "4.1.png",
+    "char": "4"
+  },
+  {
+    "file": "4.2.png",
+    "char": "4"
+  },
+  {
+    "file": "4.3.png",
+    "char": "4"
+  },
+  {
+    "file": "5.1.png",
+    "char": "5"
+  },
+  {
+    "file": "5.2.png",
+    "char": "5"
+  },
+  {
+    "file": "5.3.png",
+    "char": "5"
+  },
+  {
+    "file": "6.1.png",
+    "char": "6"
+  },
+  {
+    "file": "6.2.png",
+    "char": "6"
+  },
+  {
+    "file": "6.3.png",
+    "char": "6"
+  },
+  {
+    "file": "7.1.png",
+    "char": "7"
+  },
+  {
+    "file": "7.2.png",
+    "char": "7"
+  },
+  {
+    "file": "7.3.png",
+    "char": "7"
+  },
+  {
+    "file": "8.1.png",
+    "char": "8"
+  },
+  {
+    "file": "8.2.png",
+    "char": "8"
+  },
+  {
+    "file": "8.3.png",
+    "char": "8"
+  },
+  {
+    "file": "9.1.png",
+    "char": "9"
+  },
+  {
+    "file": "9.2.png",
+    "char": "9"
+  },
+  {
+    "file": "9.3.png",
+    "char": "9"
+  },
+  {
+    "file": ":.1.png",
+    "char": ":"
+  },
+  {
+    "file": ":.2.png",
+    "char": ":"
+  },
+  {
+    "file": ":.3.png",
+    "char": ":"
+  },
+  {
+    "file": "?.1.png",
+    "char": "?"
+  },
+  {
+    "file": "?.2.png",
+    "char": "?"
+  },
+  {
+    "file": "?.3.png",
+    "char": "?"
+  },
+  {
+    "file": "A.1.png",
+    "char": "A"
+  },
+  {
+    "file": "A.2.png",
+    "char": "A"
+  },
+  {
+    "file": "A.3.png",
+    "char": "A"
+  },
+  {
+    "file": "A.4.png",
+    "char": "A"
+  },
+  {
+    "file": "A.5.png",
+    "char": "A"
+  },
+  {
+    "file": "A.6.png",
+    "char": "A"
+  },
+  {
+    "file": "A.7.png",
+    "char": "A"
+  },
+  {
+    "file": "A.8.png",
+    "char": "A"
+  },
+  {
+    "file": "B.1.png",
+    "char": "B"
+  },
+  {
+    "file": "B.2.png",
+    "char": "B"
+  },
+  {
+    "file": "B.3.png",
+    "char": "B"
+  },
+  {
+    "file": "B.4.png",
+    "char": "B"
+  },
+  {
+    "file": "B.5.png",
+    "char": "B"
+  },
+  {
+    "file": "B.6.png",
+    "char": "B"
+  },
+  {
+    "file": "B.7.png",
+    "char": "B"
+  },
+  {
+    "file": "B.8.png",
+    "char": "B"
+  },
+  {
+    "file": "C.1.png",
+    "char": "C"
+  },
+  {
+    "file": "C.2.png",
+    "char": "C"
+  },
+  {
+    "file": "C.3.png",
+    "char": "C"
+  },
+  {
+    "file": "C.4.png",
+    "char": "C"
+  },
+  {
+    "file": "C.5.png",
+    "char": "C"
+  },
+  {
+    "file": "C.6.png",
+    "char": "C"
+  },
+  {
+    "file": "C.7.png",
+    "char": "C"
+  },
+  {
+    "file": "C.8.png",
+    "char": "C"
+  },
+  {
+    "file": "C.9.png",
+    "char": "C"
+  },
+  {
+    "file": "D.1.png",
+    "char": "D"
+  },
+  {
+    "file": "D.2.png",
+    "char": "D"
+  },
+  {
+    "file": "D.3.png",
+    "char": "D"
+  },
+  {
+    "file": "D.4.png",
+    "char": "D"
+  },
+  {
+    "file": "D.5.png",
+    "char": "D"
+  },
+  {
+    "file": "D.6.png",
+    "char": "D"
+  },
+  {
+    "file": "D.7.png",
+    "char": "D"
+  },
+  {
+    "file": "D.8.png",
+    "char": "D"
+  },
+  {
+    "file": "D.9.png",
+    "char": "D"
+  },
+  {
+    "file": "E.1.png",
+    "char": "E"
+  },
+  {
+    "file": "E.2.png",
+    "char": "E"
+  },
+  {
+    "file": "E.3.png",
+    "char": "E"
+  },
+  {
+    "file": "E.4.png",
+    "char": "E"
+  },
+  {
+    "file": "E.5.png",
+    "char": "E"
+  },
+  {
+    "file": "E.6.png",
+    "char": "E"
+  },
+  {
+    "file": "E.7.png",
+    "char": "E"
+  },
+  {
+    "file": "E.8.png",
+    "char": "E"
+  },
+  {
+    "file": "E.9.png",
+    "char": "E"
+  },
+  {
+    "file": "F.1.png",
+    "char": "F"
+  },
+  {
+    "file": "F.2.png",
+    "char": "F"
+  },
+  {
+    "file": "F.3.png",
+    "char": "F"
+  },
+  {
+    "file": "F.4.png",
+    "char": "F"
+  },
+  {
+    "file": "F.5.png",
+    "char": "F"
+  },
+  {
+    "file": "F.6.png",
+    "char": "F"
+  },
+  {
+    "file": "F.7.png",
+    "char": "F"
+  },
+  {
+    "file": "F.8.png",
+    "char": "F"
+  },
+  {
+    "file": "G.1.png",
+    "char": "G"
+  },
+  {
+    "file": "G.10.png",
+    "char": "G"
+  },
+  {
+    "file": "G.2.png",
+    "char": "G"
+  },
+  {
+    "file": "G.3.png",
+    "char": "G"
+  },
+  {
+    "file": "G.4.png",
+    "char": "G"
+  },
+  {
+    "file": "G.5.png",
+    "char": "G"
+  },
+  {
+    "file": "G.6.png",
+    "char": "G"
+  },
+  {
+    "file": "G.7.png",
+    "char": "G"
+  },
+  {
+    "file": "G.8.png",
+    "char": "G"
+  },
+  {
+    "file": "G.9.png",
+    "char": "G"
+  },
+  {
+    "file": "H.1.png",
+    "char": "H"
+  },
+  {
+    "file": "H.2.png",
+    "char": "H"
+  },
+  {
+    "file": "H.3.png",
+    "char": "H"
+  },
+  {
+    "file": "H.4.png",
+    "char": "H"
+  },
+  {
+    "file": "H.5.png",
+    "char": "H"
+  },
+  {
+    "file": "H.6.png",
+    "char": "H"
+  },
+  {
+    "file": "H.7.png",
+    "char": "H"
+  },
+  {
+    "file": "H.8.png",
+    "char": "H"
+  },
+  {
+    "file": "I.1.png",
+    "char": "I"
+  },
+  {
+    "file": "I.2.png",
+    "char": "I"
+  },
+  {
+    "file": "I.4.png",
+    "char": "I"
+  },
+  {
+    "file": "I.5.png",
+    "char": "I"
+  },
+  {
+    "file": "I.6.png",
+    "char": "I"
+  },
+  {
+    "file": "I.7.png",
+    "char": "I"
+  },
+  {
+    "file": "I.8.png",
+    "char": "I"
+  },
+  {
+    "file": "J.1.png",
+    "char": "J"
+  },
+  {
+    "file": "J.2.png",
+    "char": "J"
+  },
+  {
+    "file": "J.3.png",
+    "char": "J"
+  },
+  {
+    "file": "J.4.png",
+    "char": "J"
+  },
+  {
+    "file": "J.5.png",
+    "char": "J"
+  },
+  {
+    "file": "J.6.png",
+    "char": "J"
+  },
+  {
+    "file": "J.7.png",
+    "char": "J"
+  },
+  {
+    "file": "J.8.png",
+    "char": "J"
+  },
+  {
+    "file": "K.1.png",
+    "char": "K"
+  },
+  {
+    "file": "K.2.png",
+    "char": "K"
+  },
+  {
+    "file": "K.3.png",
+    "char": "K"
+  },
+  {
+    "file": "K.4.png",
+    "char": "K"
+  },
+  {
+    "file": "K.5.png",
+    "char": "K"
+  },
+  {
+    "file": "K.6.png",
+    "char": "K"
+  },
+  {
+    "file": "K.7.png",
+    "char": "K"
+  },
+  {
+    "file": "K.8.png",
+    "char": "K"
+  },
+  {
+    "file": "L.1.png",
+    "char": "L"
+  },
+  {
+    "file": "L.2.png",
+    "char": "L"
+  },
+  {
+    "file": "L.3.png",
+    "char": "L"
+  },
+  {
+    "file": "L.4.png",
+    "char": "L"
+  },
+  {
+    "file": "L.5.png",
+    "char": "L"
+  },
+  {
+    "file": "L.6.png",
+    "char": "L"
+  },
+  {
+    "file": "L.7.png",
+    "char": "L"
+  },
+  {
+    "file": "L.8.png",
+    "char": "L"
+  },
+  {
+    "file": "M.1.png",
+    "char": "M"
+  },
+  {
+    "file": "M.2.png",
+    "char": "M"
+  },
+  {
+    "file": "M.3.png",
+    "char": "M"
+  },
+  {
+    "file": "M.4.png",
+    "char": "M"
+  },
+  {
+    "file": "M.5.png",
+    "char": "M"
+  },
+  {
+    "file": "M.6.png",
+    "char": "M"
+  },
+  {
+    "file": "M.7.png",
+    "char": "M"
+  },
+  {
+    "file": "N.1.png",
+    "char": "N"
+  },
+  {
+    "file": "N.2.png",
+    "char": "N"
+  },
+  {
+    "file": "N.3.png",
+    "char": "N"
+  },
+  {
+    "file": "N.4.png",
+    "char": "N"
+  },
+  {
+    "file": "N.5.png",
+    "char": "N"
+  },
+  {
+    "file": "N.6.png",
+    "char": "N"
+  },
+  {
+    "file": "N.7.png",
+    "char": "N"
+  },
+  {
+    "file": "O.1.png",
+    "char": "O"
+  },
+  {
+    "file": "O.10.png",
+    "char": "O"
+  },
+  {
+    "file": "O.2.png",
+    "char": "O"
+  },
+  {
+    "file": "O.3.png",
+    "char": "O"
+  },
+  {
+    "file": "O.4.png",
+    "char": "O"
+  },
+  {
+    "file": "O.5.png",
+    "char": "O"
+  },
+  {
+    "file": "O.6.png",
+    "char": "O"
+  },
+  {
+    "file": "O.7.png",
+    "char": "O"
+  },
+  {
+    "file": "O.8.png",
+    "char": "O"
+  },
+  {
+    "file": "O.9.png",
+    "char": "O"
+  },
+  {
+    "file": "P.1.png",
+    "char": "P"
+  },
+  {
+    "file": "P.2.png",
+    "char": "P"
+  },
+  {
+    "file": "P.3.png",
+    "char": "P"
+  },
+  {
+    "file": "P.4.png",
+    "char": "P"
+  },
+  {
+    "file": "P.5.png",
+    "char": "P"
+  },
+  {
+    "file": "P.6.png",
+    "char": "P"
+  },
+  {
+    "file": "P.7.png",
+    "char": "P"
+  },
+  {
+    "file": "P.8.png",
+    "char": "P"
+  },
+  {
+    "file": "Q.1.png",
+    "char": "Q"
+  },
+  {
+    "file": "Q.2.png",
+    "char": "Q"
+  },
+  {
+    "file": "Q.3.png",
+    "char": "Q"
+  },
+  {
+    "file": "Q.4.png",
+    "char": "Q"
+  },
+  {
+    "file": "Q.5.png",
+    "char": "Q"
+  },
+  {
+    "file": "Q.6.png",
+    "char": "Q"
+  },
+  {
+    "file": "Q.7.png",
+    "char": "Q"
+  },
+  {
+    "file": "Q.8.png",
+    "char": "Q"
+  },
+  {
+    "file": "R.1.png",
+    "char": "R"
+  },
+  {
+    "file": "R.2.png",
+    "char": "R"
+  },
+  {
+    "file": "R.3.png",
+    "char": "R"
+  },
+  {
+    "file": "R.4.png",
+    "char": "R"
+  },
+  {
+    "file": "R.6.png",
+    "char": "R"
+  },
+  {
+    "file": "R.7.png",
+    "char": "R"
+  },
+  {
+    "file": "R.8.png",
+    "char": "R"
+  },
+  {
+    "file": "R.9.png",
+    "char": "R"
+  },
+  {
+    "file": "S.1.png",
+    "char": "S"
+  },
+  {
+    "file": "S.2.png",
+    "char": "S"
+  },
+  {
+    "file": "S.3.png",
+    "char": "S"
+  },
+  {
+    "file": "S.4.png",
+    "char": "S"
+  },
+  {
+    "file": "S.5.png",
+    "char": "S"
+  },
+  {
+    "file": "S.6.png",
+    "char": "S"
+  },
+  {
+    "file": "S.7.png",
+    "char": "S"
+  },
+  {
+    "file": "S.8.png",
+    "char": "S"
+  },
+  {
+    "file": "S.9.png",
+    "char": "S"
+  },
+  {
+    "file": "T.1.png",
+    "char": "T"
+  },
+  {
+    "file": "T.2.png",
+    "char": "T"
+  },
+  {
+    "file": "T.3.png",
+    "char": "T"
+  },
+  {
+    "file": "T.4.png",
+    "char": "T"
+  },
+  {
+    "file": "T.5.png",
+    "char": "T"
+  },
+  {
+    "file": "T.6.png",
+    "char": "T"
+  },
+  {
+    "file": "T.7.png",
+    "char": "T"
+  },
+  {
+    "file": "U.1.png",
+    "char": "U"
+  },
+  {
+    "file": "U.2.png",
+    "char": "U"
+  },
+  {
+    "file": "U.3.png",
+    "char": "U"
+  },
+  {
+    "file": "U.4.png",
+    "char": "U"
+  },
+  {
+    "file": "U.5.png",
+    "char": "U"
+  },
+  {
+    "file": "U.6.png",
+    "char": "U"
+  },
+  {
+    "file": "U.7.png",
+    "char": "U"
+  },
+  {
+    "file": "V.1.png",
+    "char": "V"
+  },
+  {
+    "file": "V.2.png",
+    "char": "V"
+  },
+  {
+    "file": "V.3.png",
+    "char": "V"
+  },
+  {
+    "file": "V.4.png",
+    "char": "V"
+  },
+  {
+    "file": "V.5.png",
+    "char": "V"
+  },
+  {
+    "file": "V.6.png",
+    "char": "V"
+  },
+  {
+    "file": "V.7.png",
+    "char": "V"
+  },
+  {
+    "file": "V.8.png",
+    "char": "V"
+  },
+  {
+    "file": "W.1.png",
+    "char": "W"
+  },
+  {
+    "file": "W.2.png",
+    "char": "W"
+  },
+  {
+    "file": "W.3.png",
+    "char": "W"
+  },
+  {
+    "file": "W.4.png",
+    "char": "W"
+  },
+  {
+    "file": "W.5.png",
+    "char": "W"
+  },
+  {
+    "file": "W.6.png",
+    "char": "W"
+  },
+  {
+    "file": "W.7.png",
+    "char": "W"
+  },
+  {
+    "file": "W.8.png",
+    "char": "W"
+  },
+  {
+    "file": "X.1.png",
+    "char": "X"
+  },
+  {
+    "file": "X.2.png",
+    "char": "X"
+  },
+  {
+    "file": "X.3.png",
+    "char": "X"
+  },
+  {
+    "file": "X.4.png",
+    "char": "X"
+  },
+  {
+    "file": "X.5.png",
+    "char": "X"
+  },
+  {
+    "file": "X.6.png",
+    "char": "X"
+  },
+  {
+    "file": "X.7.png",
+    "char": "X"
+  },
+  {
+    "file": "X.8.png",
+    "char": "X"
+  },
+  {
+    "file": "X.9.png",
+    "char": "X"
+  },
+  {
+    "file": "Y.1.png",
+    "char": "Y"
+  },
+  {
+    "file": "Y.2.png",
+    "char": "Y"
+  },
+  {
+    "file": "Y.3.png",
+    "char": "Y"
+  },
+  {
+    "file": "Y.4.png",
+    "char": "Y"
+  },
+  {
+    "file": "Y.5.png",
+    "char": "Y"
+  },
+  {
+    "file": "Y.6.png",
+    "char": "Y"
+  },
+  {
+    "file": "Y.7.png",
+    "char": "Y"
+  },
+  {
+    "file": "Y.8.png",
+    "char": "Y"
+  },
+  {
+    "file": "Z.1.png",
+    "char": "Z"
+  },
+  {
+    "file": "Z.2.png",
+    "char": "Z"
+  },
+  {
+    "file": "Z.3.png",
+    "char": "Z"
+  },
+  {
+    "file": "Z.4.png",
+    "char": "Z"
+  },
+  {
+    "file": "Z.5.png",
+    "char": "Z"
+  },
+  {
+    "file": "Z.6.png",
+    "char": "Z"
+  },
+  {
+    "file": "Z.7.png",
+    "char": "Z"
+  },
+  {
+    "file": "Z.8.png",
+    "char": "Z"
+  },
+  {
+    "file": "Z.9.png",
+    "char": "Z"
   }
 ]
