@@ -1,0 +1,938 @@
+[
+  {
+    "file": "uppercase/A.png",
+    "char": "A",
+    "category": "uppercase",
+    "source": "letters.png",
+    "row": 0,
+    "bbox": [
+      23,
+      24,
+      67,
+      85
+    ]
+  },
+  {
+    "file": "lowercase/a.png",
+    "char": "a",
+    "category": "lowercase",
+    "source": "letters.png",
+    "row": 0,
+    "bbox": [
+      84,
+      30,
+      136,
+      80
+    ]
+  },
+  {
+    "file": "uppercase/B.png",
+    "char": "B",
+    "category": "uppercase",
+    "source": "letters.png",
+    "row": 0,
+    "bbox": [
+      142,
+      16,
+      202,
+      83
+    ]
+  },
+  {
+    "file": "lowercase/b.png",
+    "char": "b",
+    "category": "lowercase",
+    "source": "letters.png",
+    "row": 0,
+    "bbox": [
+      209,
+      21,
+      275,
+      88
+    ]
+  },
+  {
+    "file": "uppercase/C.png",
+    "char": "C",
+    "category": "uppercase",
+    "source": "letters.png",
+    "row": 0,
+    "bbox": [
+      281,
+      16,
+      337,
+      85
+    ]
+  },
+  {
+    "file": "lowercase/c.png",
+    "char": "c",
+    "category": "lowercase",
+    "source": "letters.png",
+    "row": 0,
+    "bbox": [
+      344,
+      24,
+      402,
+      89
+    ]
+  },
+  {
+    "file": "uppercase/D.png",
+    "char": "D",
+    "category": "uppercase",
+    "source": "letters.png",
+    "row": 0,
+    "bbox": [
+      402,
+      15,
+      472,
+      89
+    ]
+  },
+  {
+    "file": "lowercase/d.png",
+    "char": "d",
+    "category": "lowercase",
+    "source": "letters.png",
+    "row": 0,
+    "bbox": [
+      483,
+      18,
+      540,
+      76
+    ]
+  },
+  {
+    "file": "uppercase/E.png",
+    "char": "E",
+    "category": "uppercase",
+    "source": "letters.png",
+    "row": 0,
+    "bbox": [
+      539,
+      10,
+      612,
+      76
+    ]
+  },
+  {
+    "file": "lowercase/e.png",
+    "char": "e",
+    "category": "lowercase",
+    "source": "letters.png",
+    "row": 0,
+    "bbox": [
+      612,
+      22,
+      668,
+      83
+    ]
+  },
+  {
+    "file": "uppercase/F.png",
+    "char": "F",
+    "category": "uppercase",
+    "source": "letters.png",
+    "row": 0,
+    "bbox": [
+      672,
+      13,
+      746,
+      88
+    ]
+  },
+  {
+    "file": "lowercase/f.png",
+    "char": "f",
+    "category": "lowercase",
+    "source": "letters.png",
+    "row": 0,
+    "bbox": [
+      745,
+      16,
+      795,
+      92
+    ]
+  },
+  {
+    "file": "uppercase/G.png",
+    "char": "G",
+    "category": "uppercase",
+    "source": "letters.png",
+    "row": 0,
+    "bbox": [
+      809,
+      11,
+      883,
+      89
+    ]
+  },
+  {
+    "file": "lowercase/g.png",
+    "char": "g",
+    "category": "lowercase",
+    "source": "letters.png",
+    "row": 0,
+    "bbox": [
+      878,
+      24,
+      933,
+      83
+    ]
+  },
+  {
+    "file": "uppercase/H.png",
+    "char": "H",
+    "category": "uppercase",
+    "source": "letters.png",
+    "row": 0,
+    "bbox": [
+      936,
+      14,
+      1007,
+      89
+    ]
+  },
+  {
+    "file": "lowercase/h.png",
+    "char": "h",
+    "category": "lowercase",
+    "source": "letters.png",
+    "row": 0,
+    "bbox": [
+      1010,
+      14,
+      1074,
+      88
+    ]
+  },
+  {
+    "file": "uppercase/I.png",
+    "char": "I",
+    "category": "uppercase",
+    "source": "letters.png",
+    "row": 0,
+    "bbox": [
+      1072,
+      14,
+      1133,
+      89
+    ]
+  },
+  {
+    "file": "lowercase/i.png",
+    "char": "i",
+    "category": "lowercase",
+    "source": "letters.png",
+    "row": 0,
+    "bbox": [
+      1139,
+      15,
+      1186,
+      78
+    ]
+  },
+  {
+    "file": "uppercase/J.png",
+    "char": "J",
+    "category": "uppercase",
+    "source": "letters.png",
+    "row": 1,
+    "bbox": [
+      11,
+      108,
+      65,
+      167
+    ]
+  },
+  {
+    "file": "lowercase/j.png",
+    "char": "j",
+    "category": "lowercase",
+    "source": "letters.png",
+    "row": 1,
+    "bbox": [
+      73,
+      102,
+      120,
+      172
+    ]
+  },
+  {
+    "file": "uppercase/K.png",
+    "char": "K",
+    "category": "uppercase",
+    "source": "letters.png",
+    "row": 1,
+    "bbox": [
+      129,
+      95,
+      196,
+      172
+    ]
+  },
+  {
+    "file": "lowercase/k.png",
+    "char": "k",
+    "category": "lowercase",
+    "source": "letters.png",
+    "row": 1,
+    "bbox": [
+      201,
+      101,
+      257,
+      170
+    ]
+  },
+  {
+    "file": "uppercase/L.png",
+    "char": "L",
+    "category": "uppercase",
+    "source": "letters.png",
+    "row": 1,
+    "bbox": [
+      265,
+      98,
+      327,
+      173
+    ]
+  },
+  {
+    "file": "lowercase/l.png",
+    "char": "l",
+    "category": "lowercase",
+    "source": "letters.png",
+    "row": 1,
+    "bbox": [
+      337,
+      98,
+      395,
+      176
+    ]
+  },
+  {
+    "file": "uppercase/M.png",
+    "char": "M",
+    "category": "uppercase",
+    "source": "letters.png",
+    "row": 1,
+    "bbox": [
+      395,
+      98,
+      483,
+      178
+    ]
+  },
+  {
+    "file": "lowercase/m.png",
+    "char": "m",
+    "category": "lowercase",
+    "source": "letters.png",
+    "row": 1,
+    "bbox": [
+      480,
+      108,
+      544,
+      166
+    ]
+  },
+  {
+    "file": "uppercase/N.png",
+    "char": "N",
+    "category": "uppercase",
+    "source": "letters.png",
+    "row": 1,
+    "bbox": [
+      541,
+      97,
+      608,
+      174
+    ]
+  },
+  {
+    "file": "lowercase/n.png",
+    "char": "n",
+    "category": "lowercase",
+    "source": "letters.png",
+    "row": 1,
+    "bbox": [
+      617,
+      117,
+      674,
+      175
+    ]
+  },
+  {
+    "file": "uppercase/O.png",
+    "char": "O",
+    "category": "uppercase",
+    "source": "letters.png",
+    "row": 1,
+    "bbox": [
+      677,
+      113,
+      740,
+      176
+    ]
+  },
+  {
+    "file": "lowercase/o.png",
+    "char": "o",
+    "category": "lowercase",
+    "source": "letters.png",
+    "row": 1,
+    "bbox": [
+      738,
+      121,
+      801,
+      173
+    ]
+  },
+  {
+    "file": "uppercase/P.png",
+    "char": "P",
+    "category": "uppercase",
+    "source": "letters.png",
+    "row": 1,
+    "bbox": [
+      804,
+      108,
+      864,
+      182
+    ]
+  },
+  {
+    "file": "lowercase/p.png",
+    "char": "p",
+    "category": "lowercase",
+    "source": "letters.png",
+    "row": 1,
+    "bbox": [
+      871,
+      115,
+      935,
+      187
+    ]
+  },
+  {
+    "file": "uppercase/Q.png",
+    "char": "Q",
+    "category": "uppercase",
+    "source": "letters.png",
+    "row": 1,
+    "bbox": [
+      940,
+      109,
+      999,
+      175
+    ]
+  },
+  {
+    "file": "lowercase/q.png",
+    "char": "q",
+    "category": "lowercase",
+    "source": "letters.png",
+    "row": 1,
+    "bbox": [
+      1007,
+      111,
+      1064,
+      184
+    ]
+  },
+  {
+    "file": "uppercase/R.png",
+    "char": "R",
+    "category": "uppercase",
+    "source": "letters.png",
+    "row": 1,
+    "bbox": [
+      1073,
+      109,
+      1122,
+      176
+    ]
+  },
+  {
+    "file": "lowercase/r.png",
+    "char": "r",
+    "category": "lowercase",
+    "source": "letters.png",
+    "row": 1,
+    "bbox": [
+      1131,
+      121,
+      1190,
+      172
+    ]
+  },
+  {
+    "file": "uppercase/S.png",
+    "char": "S",
+    "category": "uppercase",
+    "source": "letters.png",
+    "row": 2,
+    "bbox": [
+      52,
+      198,
+      121,
+      276
+    ]
+  },
+  {
+    "file": "lowercase/s.png",
+    "char": "s",
+    "category": "lowercase",
+    "source": "letters.png",
+    "row": 2,
+    "bbox": [
+      131,
+      195,
+      176,
+      261
+    ]
+  },
+  {
+    "file": "uppercase/T.png",
+    "char": "T",
+    "category": "uppercase",
+    "source": "letters.png",
+    "row": 2,
+    "bbox": [
+      193,
+      190,
+      250,
+      261
+    ]
+  },
+  {
+    "file": "lowercase/t.png",
+    "char": "t",
+    "category": "lowercase",
+    "source": "letters.png",
+    "row": 2,
+    "bbox": [
+      261,
+      196,
+      313,
+      262
+    ]
+  },
+  {
+    "file": "uppercase/U.png",
+    "char": "U",
+    "category": "uppercase",
+    "source": "letters.png",
+    "row": 2,
+    "bbox": [
+      319,
+      187,
+      394,
+      257
+    ]
+  },
+  {
+    "file": "lowercase/u.png",
+    "char": "u",
+    "category": "lowercase",
+    "source": "letters.png",
+    "row": 2,
+    "bbox": [
+      388,
+      194,
+      451,
+      267
+    ]
+  },
+  {
+    "file": "uppercase/V.png",
+    "char": "V",
+    "category": "uppercase",
+    "source": "letters.png",
+    "row": 2,
+    "bbox": [
+      460,
+      191,
+      529,
+      263
+    ]
+  },
+  {
+    "file": "lowercase/v.png",
+    "char": "v",
+    "category": "lowercase",
+    "source": "letters.png",
+    "row": 2,
+    "bbox": [
+      529,
+      211,
+      583,
+      277
+    ]
+  },
+  {
+    "file": "uppercase/W.png",
+    "char": "W",
+    "category": "uppercase",
+    "source": "letters.png",
+    "row": 2,
+    "bbox": [
+      583,
+      194,
+      665,
+      258
+    ]
+  },
+  {
+    "file": "lowercase/w.png",
+    "char": "w",
+    "category": "lowercase",
+    "source": "letters.png",
+    "row": 2,
+    "bbox": [
+      666,
+      209,
+      723,
+      265
+    ]
+  },
+  {
+    "file": "uppercase/X.png",
+    "char": "X",
+    "category": "uppercase",
+    "source": "letters.png",
+    "row": 2,
+    "bbox": [
+      729,
+      199,
+      795,
+      264
+    ]
+  },
+  {
+    "file": "lowercase/x.png",
+    "char": "x",
+    "category": "lowercase",
+    "source": "letters.png",
+    "row": 2,
+    "bbox": [
+      803,
+      209,
+      862,
+      273
+    ]
+  },
+  {
+    "file": "uppercase/Y.png",
+    "char": "Y",
+    "category": "uppercase",
+    "source": "letters.png",
+    "row": 2,
+    "bbox": [
+      878,
+      206,
+      936,
+      272
+    ]
+  },
+  {
+    "file": "lowercase/y.png",
+    "char": "y",
+    "category": "lowercase",
+    "source": "letters.png",
+    "row": 2,
+    "bbox": [
+      946,
+      199,
+      993,
+      264
+    ]
+  },
+  {
+    "file": "uppercase/Z.png",
+    "char": "Z",
+    "category": "uppercase",
+    "source": "letters.png",
+    "row": 2,
+    "bbox": [
+      1000,
+      197,
+      1060,
+      269
+    ]
+  },
+  {
+    "file": "lowercase/z.png",
+    "char": "z",
+    "category": "lowercase",
+    "source": "letters.png",
+    "row": 2,
+    "bbox": [
+      1078,
+      207,
+      1133,
+      262
+    ]
+  },
+  {
+    "file": "digits/1.png",
+    "char": "1",
+    "category": "digits",
+    "source": "numbers.png",
+    "row": 0,
+    "bbox": [
+      19,
+      27,
+      70,
+      75
+    ]
+  },
+  {
+    "file": "digits/2.png",
+    "char": "2",
+    "category": "digits",
+    "source": "numbers.png",
+    "row": 0,
+    "bbox": [
+      77,
+      24,
+      126,
+      76
+    ]
+  },
+  {
+    "file": "digits/3.png",
+    "char": "3",
+    "category": "digits",
+    "source": "numbers.png",
+    "row": 0,
+    "bbox": [
+      126,
+      19,
+      183,
+      75
+    ]
+  },
+  {
+    "file": "digits/4.png",
+    "char": "4",
+    "category": "digits",
+    "source": "numbers.png",
+    "row": 0,
+    "bbox": [
+      186,
+      23,
+      238,
+      79
+    ]
+  },
+  {
+    "file": "digits/5.png",
+    "char": "5",
+    "category": "digits",
+    "source": "numbers.png",
+    "row": 0,
+    "bbox": [
+      243,
+      17,
+      295,
+      77
+    ]
+  },
+  {
+    "file": "digits/6.png",
+    "char": "6",
+    "category": "digits",
+    "source": "numbers.png",
+    "row": 0,
+    "bbox": [
+      296,
+      18,
+      352,
+      85
+    ]
+  },
+  {
+    "file": "digits/7.png",
+    "char": "7",
+    "category": "digits",
+    "source": "numbers.png",
+    "row": 0,
+    "bbox": [
+      353,
+      26,
+      403,
+      81
+    ]
+  },
+  {
+    "file": "digits/8.png",
+    "char": "8",
+    "category": "digits",
+    "source": "numbers.png",
+    "row": 0,
+    "bbox": [
+      413,
+      19,
+      463,
+      73
+    ]
+  },
+  {
+    "file": "digits/9.png",
+    "char": "9",
+    "category": "digits",
+    "source": "numbers.png",
+    "row": 0,
+    "bbox": [
+      465,
+      23,
+      519,
+      82
+    ]
+  },
+  {
+    "file": "digits/0.png",
+    "char": "0",
+    "category": "digits",
+    "source": "numbers.png",
+    "row": 0,
+    "bbox": [
+      524,
+      9,
+      582,
+      82
+    ]
+  },
+  {
+    "file": "symbols/!.png",
+    "char": "!",
+    "category": "symbols",
+    "source": "numbers.png",
+    "row": 1,
+    "bbox": [
+      17,
+      105,
+      59,
+      160
+    ]
+  },
+  {
+    "file": "symbols/?.png",
+    "char": "?",
+    "category": "symbols",
+    "source": "numbers.png",
+    "row": 1,
+    "bbox": [
+      64,
+      100,
+      114,
+      161
+    ]
+  },
+  {
+    "file": "symbols/..png",
+    "char": ".",
+    "category": "symbols",
+    "source": "numbers.png",
+    "row": 1,
+    "bbox": [
+      115,
+      107,
+      171,
+      164
+    ]
+  },
+  {
+    "file": "symbols/,.png",
+    "char": ",",
+    "category": "symbols",
+    "source": "numbers.png",
+    "row": 1,
+    "bbox": [
+      182,
+      113,
+      226,
+      163
+    ]
+  },
+  {
+    "file": "symbols/@.png",
+    "char": "@",
+    "category": "symbols",
+    "source": "numbers.png",
+    "row": 1,
+    "bbox": [
+      226,
+      99,
+      292,
+      162
+    ]
+  },
+  {
+    "file": "symbols/$.png",
+    "char": "$",
+    "category": "symbols",
+    "source": "numbers.png",
+    "row": 1,
+    "bbox": [
+      296,
+      96,
+      347,
+      162
+    ]
+  },
+  {
+    "file": "symbols/%.png",
+    "char": "%",
+    "category": "symbols",
+    "source": "numbers.png",
+    "row": 1,
+    "bbox": [
+      355,
+      97,
+      406,
+      152
+    ]
+  },
+  {
+    "file": "symbols/#.png",
+    "char": "#",
+    "category": "symbols",
+    "source": "numbers.png",
+    "row": 1,
+    "bbox": [
+      412,
+      92,
+      468,
+      156
+    ]
+  },
+  {
+    "file": "symbols/\".png",
+    "char": "\"",
+    "category": "symbols",
+    "source": "numbers.png",
+    "row": 1,
+    "bbox": [
+      475,
+      99,
+      523,
+      152
+    ]
+  },
+  {
+    "file": "symbols/¢.png",
+    "char": "¢",
+    "category": "symbols",
+    "source": "numbers.png",
+    "row": 1,
+    "bbox": [
+      538,
+      95,
+      588,
+      153
+    ]
+  }
+]
