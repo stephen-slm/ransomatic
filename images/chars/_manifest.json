@@ -280,6 +280,10 @@
     "char": "A"
   },
   {
+    "file": "A.10.png",
+    "char": "A"
+  },
+  {
     "file": "A.2.png",
     "char": "A"
   },
@@ -308,7 +312,15 @@
     "char": "A"
   },
   {
+    "file": "A.9.png",
+    "char": "A"
+  },
+  {
     "file": "B.1.png",
+    "char": "B"
+  },
+  {
+    "file": "B.10.png",
     "char": "B"
   },
   {
@@ -340,7 +352,19 @@
     "char": "B"
   },
   {
+    "file": "B.9.png",
+    "char": "B"
+  },
+  {
     "file": "C.1.png",
+    "char": "C"
+  },
+  {
+    "file": "C.10.png",
+    "char": "C"
+  },
+  {
+    "file": "C.11.png",
     "char": "C"
   },
   {
@@ -380,6 +404,14 @@
     "char": "D"
   },
   {
+    "file": "D.10.png",
+    "char": "D"
+  },
+  {
+    "file": "D.11.png",
+    "char": "D"
+  },
+  {
     "file": "D.2.png",
     "char": "D"
   },
@@ -413,6 +445,14 @@
   },
   {
     "file": "E.1.png",
+    "char": "E"
+  },
+  {
+    "file": "E.10.png",
+    "char": "E"
+  },
+  {
+    "file": "E.11.png",
     "char": "E"
   },
   {
@@ -452,6 +492,10 @@
     "char": "F"
   },
   {
+    "file": "F.10.png",
+    "char": "F"
+  },
+  {
     "file": "F.2.png",
     "char": "F"
   },
@@ -480,11 +524,23 @@
     "char": "F"
   },
   {
+    "file": "F.9.png",
+    "char": "F"
+  },
+  {
     "file": "G.1.png",
     "char": "G"
   },
   {
     "file": "G.10.png",
+    "char": "G"
+  },
+  {
+    "file": "G.11.png",
+    "char": "G"
+  },
+  {
+    "file": "G.12.png",
     "char": "G"
   },
   {
@@ -524,6 +580,10 @@
     "char": "H"
   },
   {
+    "file": "H.10.png",
+    "char": "H"
+  },
+  {
     "file": "H.2.png",
     "char": "H"
   },
@@ -552,7 +612,15 @@
     "char": "H"
   },
   {
+    "file": "H.9.png",
+    "char": "H"
+  },
+  {
     "file": "I.1.png",
+    "char": "I"
+  },
+  {
+    "file": "I.10.png",
     "char": "I"
   },
   {
@@ -580,7 +648,15 @@
     "char": "I"
   },
   {
+    "file": "I.9.png",
+    "char": "I"
+  },
+  {
     "file": "J.1.png",
+    "char": "J"
+  },
+  {
+    "file": "J.10.png",
     "char": "J"
   },
   {
@@ -612,7 +688,15 @@
     "char": "J"
   },
   {
+    "file": "J.9.png",
+    "char": "J"
+  },
+  {
     "file": "K.1.png",
+    "char": "K"
+  },
+  {
+    "file": "K.10.png",
     "char": "K"
   },
   {
@@ -644,7 +728,15 @@
     "char": "K"
   },
   {
+    "file": "K.9.png",
+    "char": "K"
+  },
+  {
     "file": "L.1.png",
+    "char": "L"
+  },
+  {
+    "file": "L.10.png",
     "char": "L"
   },
   {
@@ -676,6 +768,10 @@
     "char": "L"
   },
   {
+    "file": "L.9.png",
+    "char": "L"
+  },
+  {
     "file": "M.1.png",
     "char": "M"
   },
@@ -701,6 +797,14 @@
   },
   {
     "file": "M.7.png",
+    "char": "M"
+  },
+  {
+    "file": "M.8.png",
+    "char": "M"
+  },
+  {
+    "file": "M.9.png",
     "char": "M"
   },
   {
@@ -732,11 +836,27 @@
     "char": "N"
   },
   {
+    "file": "N.8.png",
+    "char": "N"
+  },
+  {
+    "file": "N.9.png",
+    "char": "N"
+  },
+  {
     "file": "O.1.png",
     "char": "O"
   },
   {
     "file": "O.10.png",
+    "char": "O"
+  },
+  {
+    "file": "O.11.png",
+    "char": "O"
+  },
+  {
+    "file": "O.12.png",
     "char": "O"
   },
   {
@@ -776,6 +896,10 @@
     "char": "P"
   },
   {
+    "file": "P.10.png",
+    "char": "P"
+  },
+  {
     "file": "P.2.png",
     "char": "P"
   },
@@ -804,7 +928,15 @@
     "char": "P"
   },
   {
+    "file": "P.9.png",
+    "char": "P"
+  },
+  {
     "file": "Q.1.png",
+    "char": "Q"
+  },
+  {
+    "file": "Q.10.png",
     "char": "Q"
   },
   {
@@ -836,7 +968,19 @@
     "char": "Q"
   },
   {
+    "file": "Q.9.png",
+    "char": "Q"
+  },
+  {
     "file": "R.1.png",
+    "char": "R"
+  },
+  {
+    "file": "R.10.png",
+    "char": "R"
+  },
+  {
+    "file": "R.11.png",
     "char": "R"
   },
   {
@@ -869,6 +1013,14 @@
   },
   {
     "file": "S.1.png",
+    "char": "S"
+  },
+  {
+    "file": "S.10.png",
+    "char": "S"
+  },
+  {
+    "file": "S.11.png",
     "char": "S"
   },
   {
@@ -932,6 +1084,14 @@
     "char": "T"
   },
   {
+    "file": "T.8.png",
+    "char": "T"
+  },
+  {
+    "file": "T.9.png",
+    "char": "T"
+  },
+  {
     "file": "U.1.png",
     "char": "U"
   },
@@ -960,7 +1120,19 @@
     "char": "U"
   },
   {
+    "file": "U.8.png",
+    "char": "U"
+  },
+  {
+    "file": "U.9.png",
+    "char": "U"
+  },
+  {
     "file": "V.1.png",
+    "char": "V"
+  },
+  {
+    "file": "V.10.png",
     "char": "V"
   },
   {
@@ -992,7 +1164,15 @@
     "char": "V"
   },
   {
+    "file": "V.9.png",
+    "char": "V"
+  },
+  {
     "file": "W.1.png",
+    "char": "W"
+  },
+  {
+    "file": "W.10.png",
     "char": "W"
   },
   {
@@ -1024,7 +1204,19 @@
     "char": "W"
   },
   {
+    "file": "W.9.png",
+    "char": "W"
+  },
+  {
     "file": "X.1.png",
+    "char": "X"
+  },
+  {
+    "file": "X.10.png",
+    "char": "X"
+  },
+  {
+    "file": "X.11.png",
     "char": "X"
   },
   {
@@ -1064,6 +1256,10 @@
     "char": "Y"
   },
   {
+    "file": "Y.10.png",
+    "char": "Y"
+  },
+  {
     "file": "Y.2.png",
     "char": "Y"
   },
@@ -1092,7 +1288,19 @@
     "char": "Y"
   },
   {
+    "file": "Y.9.png",
+    "char": "Y"
+  },
+  {
     "file": "Z.1.png",
+    "char": "Z"
+  },
+  {
+    "file": "Z.10.png",
+    "char": "Z"
+  },
+  {
+    "file": "Z.11.png",
     "char": "Z"
   },
   {
